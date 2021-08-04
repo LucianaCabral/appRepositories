@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": 380643945,
+      "name": "Ajax",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "stargazers_count": 1,
+      "language": "Kotlin",
+      "html_url": "https://github.com/LucianaCabral/Ajax",
+      "description": "description"
+
+    },
+    {
+      "id": 363449118,
+      "name": "BECA-MOBILE-03-ANDROID-SQUAD-4",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/BECA-MOBILE-03-ANDROID-SQUAD-4",
+      "description":"description",
+      "stargazers_count": 0,
+      "language": "kotlin"
+    },
+    {
+      "id": 316247067,
+      "name": "br-usj-ads-MinhaAgenda",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/br-usj-ads-MinhaAgenda",
+      "description": "Uma aplicativo que armazena contatos de pessoas",
+      "stargazers_count": 0,
+      "language": "HTML"
+    },
+    {
+      "id": 260495723,
+      "name": "CalcuadoraServlet",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/CalcuadoraServlet",
+      "description": "Backend",
+      "stargazers_count": 0,
+      "language": "java"
+    },
+    {
+      "id": 382890138,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzODI4OTAxMzg=",
+      "name": "DioExercicioBusinessCard",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/DioExercicioBusinessCard",
+      "description": "Cartão de visitas",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 380637548,
+      "name": "DioSantanderIMCTrilhaDoze",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/DioSantanderIMCTrilhaDoze",
+      "description": "Aplicativo para avaliar o IMC",
+      "url": "https://api.github.com/repos/LucianaCabral/DioSantanderIMCTrilhaDoze",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 379140951,
+      "name": "DioSistemaBancario",
+      "full_name": "LucianaCabral/DioSistemaBancario",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/DioSistemaBancario",
+      "description": " Irmaos Karamzov",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 276544624,
+      "name": "ExercCalculadoraVueJS",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/ExercCalculadoraVueJS",
+      "description": "a semente do bem",
+      "stargazers_count": 0,
+      "language": "HTML"
+    },
+    {
+      "id": 257724579,
+      "name": "exercicio-2",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4",
+        "url": "https://api.github.com/users/LucianaCabral"
+      },
+      "html_url": "https://github.com/LucianaCabral/exercicio-2",
+      "description": "eterno é briolho que capota",
+      "stargazers_count": 0,
+      "language": "HTML"
+    },
+    {
+      "id": 374164189,
+      "name": "exercicio-triangulo-lgIII",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/exercicio-triangulo-lgIII",
+      "description": "Calcular área de triângulo para android na linguagem kotlin",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 374230521,
+      "name": "exercicioAndroidHaras-lgIII",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/exercicioAndroidHaras-lgIII",
+      "description": "Exercício de haras",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 374813365,
+      "name": "exercicioCincoAbastecimentodeCarro",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+
+      },
+      "html_url": "https://github.com/LucianaCabral/exercicioCincoAbastecimentodeCarro",
+      "description": "Aplicativo da abastecimento de Carros",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 374669693,
+      "name": "exercicioQuatroDiasdeVida",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/exercicioQuatroDiasdeVida",
+      "stargazers_count": 0,
+      "description": "Aplicativo da abastecimento de Carros",
+      "language": "Java"
+    },
+    {
+      "id": 374817441,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzNzQ4MTc0NDE=",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/ExercicioTresPadariaHotPao",
+      "description": "A Alice foi no País das Maravilhas",
+      "stargazers_count": 2,
+      "language": "Java"
+
+    },
+    {
+      "id": 374672712,
+      "name": "ExercicioTresPadariaHotPao",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+
+      },
+      "html_url": "https://github.com/LucianaCabral/ExercicioTresPadariaHotPao",
+      "description": "A Alice foi no País das Maravilhas",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 380619539,
+      "name": "exercicioUmAndroidJava",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "stargazers_count": 5,
+      "language": "Java",
+      "html_url": "https://github.com/LucianaCabral/ExercicioUmImobiliariaIMobilis",
+      "description": "Calcular área de terreno"
+    },
+    {
+      "id": 374346643,
+      "name": "ExercicioUmImobiliariaIMobilis",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+
+      },
+      "html_url": "https://github.com/LucianaCabral/ExercicioUmImobiliariaIMobilis",
+      "description": "Calcular área de terreno",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 380627712,
+      "name": "listaIIExercicioTresAndroidJava",
+      "owner": {
+        "login": "LucianaCabral",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63366380?v=4"
+      },
+      "html_url": "https://github.com/LucianaCabral/ExercicioUmImobiliariaIMobilis",
+      "description": "Calcular área de terreno",
+      "stargazers_count": 0,
+      "language": "Java"
+    }
+  ]
+}
