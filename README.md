@@ -2,6 +2,7 @@
 ## Exercício do Inter Bootcamp seguindo o módulo do Ezequiel Messore.
 ## Arquitetura utilizada : 
 * MVVM
-* recyclerview
+* Recyclerview
+* LiveData
 
 
